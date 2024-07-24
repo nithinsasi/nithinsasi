@@ -18,4 +18,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithinsasi" alt="nithinsasi" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinsasi2&" alt="nithinsasi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinsasi&" alt="nithinsasi" /></p>
